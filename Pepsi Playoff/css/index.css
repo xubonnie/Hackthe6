@@ -50,6 +50,7 @@ html, body {
 
 .login-buttons {
 	text-align: center;
+	margin-top: 21%;
 }
 
 .login-buttons button {
@@ -60,14 +61,16 @@ html, body {
 	  background-image: -ms-linear-gradient(top, #ed1b38, #A51227);
 	  background-image: -o-linear-gradient(top, #ed1b38, #A51227);
 	  background-image: linear-gradient(to bottom, #ed1b38, #A51227);
-	  -webkit-border-radius: 11;
-	  -moz-border-radius: 11;
-	  border-radius: 11px;
-	  font-family: Arial;
+	  -webkit-border-radius: 40;
+	  -moz-border-radius: 40;
+	  border-radius: 40px;
+	  font-family: pepsi;
+	  letter-spacing: 10px;
 	  color: #ffffff;
-	  font-size: 20px;
-	  padding: 10px 20px 10px 20px;
+	  font-size: 89px;
+	  padding: 10px 0px 10px 0px;
 	  text-decoration: none;
+	  width: 80%;
 }
 .img-center {
 	display: block;
