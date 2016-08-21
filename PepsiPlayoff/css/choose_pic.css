@@ -1,0 +1,19 @@
+body{
+	height: 100%;
+}
+.box-red {
+	background-color: red;
+	width: 88%;
+	height: calc(100vh - 175px);
+	margin-left: 6%;
+	margin-bottom: 6%;
+	margin-top: 6%;
+	display: block;
+}
+.login-background {
+	background-image: url("http://www.galaxys7wallpapers.com/wp-content/uploads/Simple/Simple%20Background%20Galaxy%20S7%20Wallpaper%2099.jpg");
+}
+
+div {
+	height: 100vh;
+}
