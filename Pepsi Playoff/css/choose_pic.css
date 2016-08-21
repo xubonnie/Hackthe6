@@ -1,0 +1,63 @@
+@font-face { font-family: Pepsi; src: url("../fonts/pepsi.ttf");}
+
+body{
+	height: 100vh;
+	background-image: url("https://wallpaperscraft.com/image/shape_bright_green_pale_7240_1440x2560.jpg");
+}
+
+.cam_button {
+	margin-left: 8%;
+}
+
+.cam_button img {
+	height: 15%;
+	width: auto;
+}
+
+.other_green {
+	height: 36%;
+	width: 100%;
+	background-color: green;
+}
+
+.white_square {
+	height:50%;
+	width: 100%;
+	background-color: white;
+}
+
+.border{
+	height: 85%;
+	width: 75%;
+	border: 60px solid #e4e478;
+	margin-left: 9%;
+	margin-right: 4%;
+	margin-top: 10%;
+}
+
+.green_square {
+	height: 14%;
+	width: 100%;
+	top: 5%
+	position:absolute;
+	background-color: green;
+	text-align: center;
+	font-size: 100px;
+	font-family: Pepsi;
+	letter-spacing: 7px;
+}
+.green_square p{
+	display: inline-block;
+	margin-top:10%;
+	color: white;
+}
+
+.green_square img {
+	width: 100%;
+	height: 100%;
+}
+
+div{
+	height: 100vh;
+}
+
