@@ -15,11 +15,11 @@ html, body {
 
 	margin:0;
 	height: 100%;
-	background: #007AC2;
-    background: -webkit-linear-gradient(#007AC2, #013571); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#007AC2, #013571); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#007AC2, #013571); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#007AC2, #013571); /* Standard syntax */
+	background: #24823A;
+    background: -webkit-linear-gradient(#24823A, #004811); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#24823A, #004811); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#24823A, #004811); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#24823A, #004811); /* Standard syntax */
 }
 
 .login-playoff {
@@ -29,14 +29,14 @@ html, body {
     font-family: pepsi;
     text-align: center;
     color: #fff;
-    margin-top: -12%;
+    margin-top: -5%;
     font-size: 174px;
     letter-spacing: 14px;
 }
 
 .login-username{
 	text-align: center;
-	margin-top: 35%;
+	margin-top: 16%;
 }
 
 .login-username input {
@@ -50,17 +50,17 @@ html, body {
 
 .login-buttons {
 	text-align: center;
-	margin-top: 21%;
+	margin-top: 16%;
 }
 
 .login-buttons button {
 	text-align: center;
-	background: #ed1b38;
-	  background-image: -webkit-linear-gradient(top, #ed1b38, #A51227);
-	  background-image: -moz-linear-gradient(top, #ed1b38, #A51227);
-	  background-image: -ms-linear-gradient(top, #ed1b38, #A51227);
-	  background-image: -o-linear-gradient(top, #ed1b38, #A51227);
-	  background-image: linear-gradient(to bottom, #ed1b38, #A51227);
+	background: #EE3A43;
+	  background-image: -webkit-linear-gradient(top, #EE3A43, #920d13);
+	  background-image: -moz-linear-gradient(top, #EE3A43, #920d13);
+	  background-image: -ms-linear-gradient(top, #EE3A43, #920d13);
+	  background-image: -o-linear-gradient(top, #EE3A43, #920d13);
+	  background-image: linear-gradient(to bottom, #EE3A43, #920d13);
 	  -webkit-border-radius: 40;
 	  -moz-border-radius: 40;
 	  border-radius: 40px;
@@ -72,6 +72,11 @@ html, body {
 	  text-decoration: none;
 	  width: 80%;
 }
+
+.login-logo {
+	width: 92%;
+}
+
 .img-center {
 	display: block;
     margin: 0 auto;
