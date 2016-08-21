@@ -1,19 +1,31 @@
 body{
-	height: 100%;
-}
-.box-red {
-	background-color: red;
-	width: 88%;
-	height: calc(100vh - 175px);
-	margin-left: 6%;
-	margin-bottom: 6%;
-	margin-top: 6%;
-	display: block;
-}
-.login-background {
+	height: 100vh;
 	background-image: url("http://www.galaxys7wallpapers.com/wp-content/uploads/Simple/Simple%20Background%20Galaxy%20S7%20Wallpaper%2099.jpg");
 }
 
-div {
+.camera {
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	bottom: 5%;
+	left: 5%;
+}
+.camera img{
+	width: 100%;
+	height: 100%;
+}
+.border{
+	height: 90%;
+	width:90%;
+	border:15px solid red;
+	margin-left: 3.5%;
+	margin-right: 5%;
+	margin-top: 7%;
+}
+
+
+div{
 	height: 100vh;
 }
+
