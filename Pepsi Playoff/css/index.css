@@ -2,10 +2,19 @@
 
 @font-face { font-family: Pepsi; src: url('../fonts/pepsi.ttf'); } 
 
+/*Basic CSS*/
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
 /*Login Classes*/
 
 .login-background {
 
+	margin:0;
+	height: 100%;
 	background: #007AC2;
     background: -webkit-linear-gradient(#007AC2, #013571); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(#007AC2, #013571); /* For Opera 11.1 to 12.0 */
@@ -39,6 +48,27 @@
     height: 200px;
 }
 
+.login-buttons {
+	text-align: center;
+}
+
+.login-buttons button {
+	text-align: center;
+	background: #ed1b38;
+	  background-image: -webkit-linear-gradient(top, #ed1b38, #A51227);
+	  background-image: -moz-linear-gradient(top, #ed1b38, #A51227);
+	  background-image: -ms-linear-gradient(top, #ed1b38, #A51227);
+	  background-image: -o-linear-gradient(top, #ed1b38, #A51227);
+	  background-image: linear-gradient(to bottom, #ed1b38, #A51227);
+	  -webkit-border-radius: 11;
+	  -moz-border-radius: 11;
+	  border-radius: 11px;
+	  font-family: Arial;
+	  color: #ffffff;
+	  font-size: 20px;
+	  padding: 10px 20px 10px 20px;
+	  text-decoration: none;
+}
 .img-center {
 	display: block;
     margin: 0 auto;
