@@ -5,13 +5,27 @@ body{
 	background-image: url("https://wallpaperscraft.com/image/shape_bright_green_pale_7240_1440x2560.jpg");
 }
 
-.cam_button {
+.photo_button {
 	margin-left: 8%;
+	display: inline-block;
+	margin-top: 170px;
+
+}
+
+.photo_button img {
+	height: 13%;
+	width: auto;
 }
 
 .cam_button img {
 	height: 15%;
 	width: auto;
+}
+
+.cam_button {
+	margin-left: 8%;
+	display: inline-block;
+	margin-top: 191px;
 }
 
 .other_green {
