@@ -24,13 +24,13 @@ html, body {
     text-align: center;
     color: #fff;
     margin-top: -5%;
-    font-size: 174px;
+    font-size: 154px;
     letter-spacing: 14px;
 }
 
 .login-username{
 	text-align: center;
-	margin-top: 16%;
+	margin-top: 20%;
 }
 
 .login-username input {
@@ -102,6 +102,10 @@ html, body {
 	text-align: center;
 	font-size: 110px;
 	margin-top: 100px;
+}
+
+.begin-game-btn {
+	padding: 70px !important;
 }
 
 /**/
