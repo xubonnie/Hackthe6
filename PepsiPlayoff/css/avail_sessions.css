@@ -1,0 +1,16 @@
+@font-face { font-family: Pepsi; src: url("../fonts/pepsi.ttf");}
+
+body {
+	height; 100vh;
+	background-image: url("http://www.note4wallpaper.com/wp-content/uploads/Textures/Green%20Lime%20Blue%20Note%204%20Wallpapers.jpg");
+}
+
+body p {
+	font-family: Pepsi;
+	font-size: 162px;
+	color: white;
+	text-align: center;
+	letter-spacing: 6px;
+	text-shadow: -4px 0 black, 0 10px black, 4px 0 black, 0 -4px black;
+	margin-top: 12%;
+}
