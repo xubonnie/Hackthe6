@@ -13,13 +13,7 @@ html, body {
 
 .login-background {
 
-	margin:0;
-	height: 100%;
-	background: #24823A;
-    background: -webkit-linear-gradient(#24823A, #004811); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#24823A, #004811); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#24823A, #004811); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#24823A, #004811); /* Standard syntax */
+	background-image: url("http://www.nexus6wallpapers.com/wp-content/uploads/Green/Green%20Rain%20Drop%20Nexus%206%20Wallpapers.jpg");
 }
 
 .login-playoff {
@@ -76,6 +70,19 @@ html, body {
 .login-logo {
 	width: 92%;
 }
+
+/*Player-list Screen*/
+
+.player-list-title {
+	text-align: center;
+	color: #ffffff;
+	font-family: pepsi;
+}
+
+.default-background {
+	background-image: url("http://www.note4wallpaper.com/wp-content/uploads/Textures/Green%20Lime%20Blue%20Note%204%20Wallpapers.jpg");
+}
+
 
 .img-center {
 	display: block;
