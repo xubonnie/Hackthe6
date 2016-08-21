@@ -1,0 +1,30 @@
+@font-face { font-family: Pepsi; src: url("../fonts/pepsi.ttf");}
+
+body {
+	height; 100vh;
+	background-image: url("http://www.wallpapersforgalaxys6.com/wp-content/uploads/Green/Green%20Water%20Drops%20wallpapers%20for%20galaxy%20S6.jpg");
+}
+
+
+
+.results {
+	font-family: Pepsi;
+	font-size: 250px;
+	color: white;
+	text-align: center;
+	letter-spacing: 6px;
+	text-shadow: -4px 0 black, 0 10px black, 4px 0 black, 0 -4px black;
+	margin-top: 12%;
+	margin-left: 3%;
+
+}
+
+
+.m_dew {
+	padding-left: 15%;
+}
+
+.m_dew img {
+	width: 1000px;
+	height: 1000px;
+}
